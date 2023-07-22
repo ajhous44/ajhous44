@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ajhous44
 - 👀 I’m interested in mobile dev, web apps, azure, cloud services, automation
-- 🌱 I’m currently learning aws, azure, refining python skills, react native expo (w/ eas build, transporter, appstoreconnect, testflight)
-- 💞️ I’m looking to share good resources with one another
+- 🌱 I’m currently learning Azure, AWS, refining python skills, react native expo (w/ eas build, transporter, appstoreconnect, testflight), and some typescript when time allows (w/ supabase)
 - 📫 How to reach me ajhous44@gmail.com
 
 <!---

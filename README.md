@@ -1,5 +1,5 @@
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 - 👋 Hi, I’m @ajhous44
 - 👀 I’m interested in mobile dev, web apps, azure, cloud services, automation

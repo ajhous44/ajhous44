@@ -1,3 +1,6 @@
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark" alt="GitHub Stats" />
+
 - 👋 Hi, I’m @ajhous44
 - 👀 I’m interested in mobile dev, web apps, azure, cloud services, automation
 - 🌱 I’m currently learning Azure, AWS, refining python skills, react native expo (w/ eas build, transporter, appstoreconnect, testflight), and some typescript when time allows (w/ supabase)

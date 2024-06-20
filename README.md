@@ -1,6 +1,5 @@
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ajhous44&left_color=green&right_color=red)
 
 - 👋 Hi, I’m @ajhous44
 - 👀 I’m interested in mobile dev, web apps, azure, cloud services, automation

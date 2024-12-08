@@ -25,14 +25,15 @@ Passionate about crafting data-driven solutions, optimizing systems, and streaml
 ## 🌟 **A few of my latest projects.**  
 | Project Name       | Description                                                                                      | Tech Stack                                                                                     |
 |--------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **SermonBuddy**    | AI-powered sermon preparation assistant helping religious leaders create impactful messages.     | Next.js, Supabase, OpenAI API                                                                 |
+| [**SermonBuddy**](https://sermonbuddy.ai)    | AI-powered sermon preparation assistant helping religious leaders create impactful messages.     | Next.js, Supabase, OpenAI API                                                                 |
+| [**GetStuffDone**](https://getstuffdoneai.netlify.app/)   | AI Focus Working Sessions.                                            | React, Netlify, OpenAI Structured Outputs API                                                                   |
 | **AutoFire**       | Modern dealership management platform with tools for website management and inventory automation.| WordPress, PHP, OpenAI API                                                                    |
 | **Intuico Digital**| Data-driven digital marketing platform optimizing SEO and content strategies.                     | WordPress, PHP, SEMrush                                                                       |
-| **SmartDonkey**    | Cross-platform mobile app revolutionizing task management with AI assistance.                    | Supabase, React Native, Expo, OpenAI API, Apple OAuth                                         |
+| [**SmartDonkey**](https://apps.apple.com/us/app/smartdonkey-gpt/id6642684697)    | Cross-platform mobile app revolutionizing task management with AI assistance.                    | Supabase, React Native, Expo, OpenAI API, Apple OAuth                                         |
 | **Weather Station**| IoT-enabled weather monitoring system with real-time data visualization.                         | React, Firebase, Arduino/ESP8266                                                             |
 | **Book Generator** | AI-powered creative writing assistant for generating story ideas and outlines.                   | React Native, OpenAI API                                                                      |
-| **Cody**           | Interactive AI coding assistant leveraging vector embeddings and OpenAI models for navigation.   | Python, LangChain, OpenAI API, Watchdog, FAISS, SpeechRecognition, Google TTS                 |
-| **Bloggy Blogger** | Blog content generator creating SEO-optimized articles and images, uploading directly to WordPress.| Python, OpenAI API, DALL-E, WordPress API, Stability AI                                       |
+| [**Cody**](https://github.com/ajhous44/cody)           | Interactive AI coding assistant leveraging vector embeddings and OpenAI models for navigation.   | Python, LangChain, OpenAI API, Watchdog, FAISS, SpeechRecognition, Google TTS                 |
+| [**Bloggy Blogger**](https://github.com/ajhous44/BloggyBlogger) | Blog content generator creating SEO-optimized articles and images, uploading directly to WordPress.| Python, OpenAI API, DALL-E, WordPress API, Stability AI                                       |
 
 ---
 
@@ -40,5 +41,4 @@ Passionate about crafting data-driven solutions, optimizing systems, and streaml
 - 🌐 [GitHub](https://github.com/ajhous44)  
 - 💼 [LinkedIn](https://linkedin.com/in/ajhous44)
 
-🌟 _Always building, always learning._
-
+🌟 _Always building, always learning._  

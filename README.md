@@ -1,3 +1,9 @@
+
+
+# 🌟 AJHous44 
+**Software Engineer** | **Problem Solver** | **Azure Certified**  
+Passionate about crafting data-driven solutions, optimizing systems, and streamlining workflows.
+
 <!-- GitHub Stats and Streak Side-by-Side -->
 <table>
   <tr>
@@ -11,10 +17,6 @@
     </td>
   </tr>
 </table>
-
-# 🌟 AJHous44 
-**Software Engineer** | **Problem Solver** | **Azure Certified**  
-Passionate about crafting data-driven solutions, optimizing systems, and streamlining workflows.
 
 ---
 

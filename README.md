@@ -1,6 +1,16 @@
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ajhous44)](https://git.io/streak-stats)
+<!-- GitHub Stats and Streak Side-by-Side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ajhous44&theme=dark" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 🌟 AJHous44 
 **Software Engineer** | **Problem Solver** | **Azure Certified**  

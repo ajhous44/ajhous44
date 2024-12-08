@@ -1,7 +1,7 @@
 
 
 # 🌟 AJHous44 
-**Software Engineer** | **Problem Solver** | **Azure Certified**  
+**Software Engineer** | **Azure Certified**  
 Passionate about crafting data-driven solutions, optimizing systems, and streamlining workflows.
 
 <!-- GitHub Stats and Streak Side-by-Side -->

@@ -1,5 +1,6 @@
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
+![GitHub Streak](https://streak-stats.demolab.com?user=ajhous44&theme=radical)
 
 # 🌟 AJHous44 
 **Software Engineer** | **Problem Solver** | **Azure Certified**  

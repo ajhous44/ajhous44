@@ -26,14 +26,15 @@ Passionate about crafting data-driven solutions, optimizing systems, and streaml
   <img src="https://img.shields.io/badge/-React_Native-blue?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/-OpenAI_API-black?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/-DALL--E-green?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/-LangChain-orange?style=flat-square">
   <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 </p>
+
 
 
 ---

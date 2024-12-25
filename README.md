@@ -4,19 +4,21 @@
 **Software Engineer** | **Azure Certified**  
 Passionate about crafting data-driven solutions, optimizing systems, and streamlining workflows.
 
-<!-- GitHub Stats and Streak Side-by-Side -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=ajhous44&theme=dark" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Responsive GitHub Stats and Streak -->
+<div align="center">
+  <table>
+    <tr>
+      <td style="display: block; width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </td>
+      <td style="display: block; width: 100%;">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=ajhous44&theme=dark" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 

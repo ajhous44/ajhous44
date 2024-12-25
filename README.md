@@ -19,6 +19,8 @@ Passionate about crafting data-driven solutions, optimizing systems, and streaml
     </tr>
   </table>
 </div>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ajhous44.ajhous44)
+
 
 ---
 

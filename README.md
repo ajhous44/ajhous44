@@ -53,7 +53,7 @@ Passionate about crafting data-driven solutions, optimizing systems, and streaml
 | **Book Generator** | AI-powered creative writing assistant for generating story ideas and outlines.                   | React Native, OpenAI API                                                                      |
 | [**Cody**](https://github.com/ajhous44/cody)           | Interactive AI coding assistant leveraging vector embeddings and OpenAI models for navigation.   | Python, LangChain, OpenAI API, Watchdog, FAISS, SpeechRecognition, Google TTS                 |
 | [**Bloggy Blogger**](https://github.com/ajhous44/BloggyBlogger) | Blog content generator creating SEO-optimized articles and images, uploading directly to WordPress.| Python, OpenAI API, DALL-E, WordPress API, Stability AI                                       |
-
+| [**365Git**](https://365git.com)           | Challenge for developers to commit code every single day in 2025.                               | Next.js, Supabase                                                                             |
 ---
 
 ### 📫 **Let’s Connect**  

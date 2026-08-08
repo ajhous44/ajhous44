@@ -1,63 +1,43 @@
+# Andrew Housholder
 
+### Software Engineer · AI Product Engineer
 
-# 🌟 AJHous44 
-**Software Engineer** | **Azure Certified**
-Passionate about crafting data-driven solutions, optimizing systems, and streamlining workflows.
+I build production systems and AI-enabled products across cloud, web, and mobile. My work spans Python automation, TypeScript and Next.js product development, React Native apps, APIs, cloud governance, and delivery on AWS and Azure.
 
-<!-- Responsive GitHub Stats and Streak -->
-<div align="center">
-  <table>
-    <tr>
-      <td style="display: block; width: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ajhous44&show_icons=true&theme=dark" alt="GitHub Stats" />
-      </td>
-      <td style="display: block; width: 100%;">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=ajhous44&theme=dark" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-holderhous.me-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://holderhous.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Housholder-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajhous98/)
 
----
+## What I bring
 
-### 🛠 **Tech Toolbox**  
+- 6+ years of software engineering experience across cloud platforms, DevOps, automation, and application development.
+- Enterprise AWS and Azure experience, including cloud controls, incident automation, CI/CD modernization, and internal developer tools.
+- End-to-end product ownership, from idea and architecture through implementation, deployment, and production operations.
+- Practical applied AI experience with LLM integrations, structured outputs, RAG, vector search, agents, and AI-assisted engineering workflows.
+
+## Selected work
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**TryDrobe**](https://trydrobe.com) | AI virtual try-on product for web, iOS, and Shopify that has served thousands of users. | TypeScript, Expo, Supabase, Gemini / Vertex AI |
+| [**AutoFire**](https://goautofire.com) | Multi-tenant dealership platform with real-time dashboards and inventory automation. | Next.js, TypeScript, Supabase, Vercel |
+| [**Cody**](https://github.com/ajhous44/cody) | Open-source AI coding assistant that queries codebases with embeddings and live file monitoring. | Python, LangChain, FAISS, OpenAI |
+| [**GetStuffDone**](https://getstuffdoneai.netlify.app/) | Focus-session tool that turns natural-language plans into structured, timed tasks. | React, OpenAI Structured Outputs, Netlify |
+| [**SmartDonkey**](https://apps.apple.com/us/app/smartdonkey-gpt/id6642684697) | Shipped iOS AI chat app with authentication, usage limits, and real-time backend workflows. | React Native, Expo, Supabase, OpenAI |
+
+## Toolbox
+
+- **Languages:** Python, TypeScript, JavaScript, Java, PHP, SQL
+- **Product engineering:** Next.js, React, React Native, Expo, Supabase, Firebase
+- **Cloud and platform:** AWS, Azure, GCP, Terraform, serverless, CI/CD
+- **Applied AI:** OpenAI, Gemini / Vertex AI, LangChain, RAG, vector search, agents
+
+## GitHub activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React_Native-blue?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-WordPress-blue?style=flat-square&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/-OpenAI_API-black?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/-DALL--E-green?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/-LangChain-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajhous44&theme=github_dark" alt="Andrew Housholder's GitHub contribution summary" />
 </p>
 
+## Connect
 
-
----
-
-## 🌟 **A few of my latest projects.**  
-| Project Name       | Description                                                                                      | Tech Stack                                                                                     |
-|--------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| [**SermonBuddy**](https://sermonbuddy.ai)    | AI-powered sermon preparation assistant helping religious leaders create impactful messages.     | Next.js, Supabase, OpenAI API                                                                 |
-| [**GetStuffDone**](https://getstuffdoneai.netlify.app/)   | AI Focus Working Sessions.                                            | React, Netlify, OpenAI Structured Outputs API                                                                   |
-| [**AutoFire**](https://goautofire.com/)       | Modern dealership management platform with tools for website management and inventory automation.| WordPress, PHP, OpenAI API                                                                    |
-| [**Intuico Digital**](https://intuicodigital.com)| Data-driven digital marketing platform optimizing SEO and content strategies.                     | WordPress, PHP, SEMrush                                                                       |
-| [**SmartDonkey**](https://apps.apple.com/us/app/smartdonkey-gpt/id6642684697)    | Cross-platform mobile app revolutionizing task management with AI assistance.                    | Supabase, React Native, Expo, OpenAI API, Apple OAuth                                         |
-| **Weather Station**| IoT-enabled weather monitoring system with real-time data visualization.                         | React, Firebase, Arduino/ESP8266                                                             |
-| **Book Generator** | AI-powered creative writing assistant for generating story ideas and outlines.                   | React Native, OpenAI API                                                                      |
-| [**Cody**](https://github.com/ajhous44/cody)           | Interactive AI coding assistant leveraging vector embeddings and OpenAI models for navigation.   | Python, LangChain, OpenAI API, Watchdog, FAISS, SpeechRecognition, Google TTS                 |
-| [**Bloggy Blogger**](https://github.com/ajhous44/BloggyBlogger) | Blog content generator creating SEO-optimized articles and images, uploading directly to WordPress.| Python, OpenAI API, DALL-E, WordPress API, Stability AI                                       |
-| [**365Git**](https://365git.com)           | Challenge for developers to commit code every single day in 2025.                               | Next.js, Supabase                                                                             |
----
-
-### 📫 **Let’s Connect**  
-- 🌐 [GitHub](https://github.com/ajhous44)  
-- 💼 [LinkedIn](https://linkedin.com/in/ajhous44)
-
-🌟 _Always building, always learning._  
+- [Portfolio](https://holderhous.me)
+- [LinkedIn](https://www.linkedin.com/in/ajhous98/)

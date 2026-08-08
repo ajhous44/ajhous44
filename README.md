@@ -7,6 +7,12 @@ I build production systems and AI-enabled products across cloud, web, and mobile
 [![Portfolio](https://img.shields.io/badge/Portfolio-holderhous.me-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://holderhous.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Housholder-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajhous98/)
 
+## GitHub activity
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajhous44&theme=github_dark" alt="Andrew Housholder's GitHub contribution summary" />
+</p>
+
 ## What I bring
 
 - 6+ years of software engineering experience across cloud platforms, DevOps, automation, and application development.
@@ -62,12 +68,6 @@ I build production systems and AI-enabled products across cloud, web, and mobile
 ![RAG](https://img.shields.io/badge/RAG-5A45FF?style=flat-square)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-008080?style=flat-square)
 ![Agents](https://img.shields.io/badge/Agents-FF6B35?style=flat-square)
-
-## GitHub activity
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajhous44&theme=github_dark" alt="Andrew Housholder's GitHub contribution summary" />
-</p>
 
 ## Connect
 

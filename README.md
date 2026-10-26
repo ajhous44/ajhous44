@@ -6,7 +6,6 @@ I build production systems and AI-enabled products across cloud, web, and mobile
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-holderhous.me-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://holderhous.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Housholder-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajhous98/)
-![Profile views](https://komarev.com/ghpvc/?username=ajhous44&label=Profile%20views&color=0A66C2&style=flat-square)
 
 ## GitHub activity
 

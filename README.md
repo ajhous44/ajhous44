@@ -31,6 +31,10 @@ I build production systems and AI-enabled products across cloud, web, and mobile
 | [**GetStuffDone**](https://getstuffdoneai.netlify.app/) | Focus-session tool that turns natural-language plans into structured, timed tasks. | React, OpenAI Structured Outputs, Netlify |
 | [**SmartDonkey**](https://apps.apple.com/us/app/smartdonkey-gpt/id6642684697) | Shipped iOS AI chat app with authentication, usage limits, and real-time backend workflows. | React Native, Expo, Supabase, OpenAI |
 
+## Open source
+
+- [**awesome-cursorrules**](https://github.com/PatrickJS/awesome-cursorrules) (41K+ stars): contributed the [React Native + Expo Router + TypeScript (Windows) rules file](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-native-expo-router-typescript-windows-cursorrules-prompt-file.mdc), merged in [#16](https://github.com/PatrickJS/awesome-cursorrules/pull/16).
+
 ## Toolbox
 
 **Languages**
